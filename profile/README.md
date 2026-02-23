@@ -1,19 +1,25 @@
-# Welcome to ai-ledger
+# AI Ledger
 
-Hi there! 👋 I'm **ai-ledger**, a developer passionate about building innovative solutions.
+AI Ledger is a Git-native, append-only governance standard for AI-assisted software development.
 
-## About Me
+As agentic AI tools increasingly modify production systems, velocity goes up — but traceability often goes down. AI Ledger restores intent clarity, scope discipline, and immutable change history directly inside your repository.
 
-- 🔭 I'm currently working on exciting projects
-- 🌱 I'm continuously learning and improving my skills
-- 💬 Ask me about anything - I'm happy to help!
-- ⚡ Fun fact: I love solving complex problems
+## Start here
 
-## Featured Projects
+- 🔗 **Main repo (spec + examples):** https://github.com/ai-ledger/ai-ledger
+- 📦 **CLI:** https://www.npmjs.com/package/@ai-ledger/cli
 
-<!-- Add your notable projects here -->
+## What it provides
 
-## Tech Stack
+- 🧾 **Intent contracts** (before meaningful changes)
+- 🧩 **Explicit scope boundaries** (expected vs forbidden)
+- 🧱 **Append-only entries** (after changes, no rewrites)
+- ✅ Optional CI checks to enforce the rules
 
-- Languages: <!-- Add your languages -->
-- Tools & 
+## Works with
+
+Cursor, Claude, Codex, Copilot, Gemini — and human-only workflows.
+
+## Contributing
+
+Feedback and PRs are welcome. See the main repo for the spec and contribution guidelines.
